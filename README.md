@@ -4,5 +4,6 @@ ik ben Debraline ik studeer in Erasmus
 
 
 
-[![Anugrag's github stats] (https://github-readme-stats.vercel.app/api?username=debraline-manzola[https://githyb.com/debraline-manzola/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/debraline-manzola/github-readme-stats)
+
 
